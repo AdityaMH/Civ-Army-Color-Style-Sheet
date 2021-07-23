@@ -1152,14 +1152,14 @@ TileSets/FantasyHex/Units/Horse Archer
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Horse Archer-1
+TileSets/FantasyHex/Units/Horse Archer-2
   rotate: false
   xy: 364, 151
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Horse Archer-2
+TileSets/FantasyHex/Units/Horse Archer-1
   rotate: false
   xy: 404, 186
   size: 32, 28
