@@ -8,3 +8,7 @@ Update
 
 Next project:
  - Now What?
+
+
+Attention:
+Delete "National Army Color Style Sheet", Nation Army Color Style Sheet", "Army Nation Color", and etc. in the mod manager before using this.
