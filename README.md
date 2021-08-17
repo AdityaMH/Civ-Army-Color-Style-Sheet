@@ -9,7 +9,7 @@ Update
 Next project:
  - Now What?
 
-* PC only, Need game.png and game.atlas to work on Android. Everyone can pull request or helping to update game.png and game.atlas
+  *PC only, Need game.png and game.atlas to work on Android. Everyone can pull request or helping to update game.png and game.atlas
 
 Attention:
 Delete "National Army Color Style Sheet", Nation Army Color Style Sheet", "Army Nation Color", and etc. in the mod manager before using this.
