@@ -3,6 +3,11 @@ This mod contains exclusive skins where each civ has its own skin color in each 
 You need enable "show pixels unit" to make it work.
 
 Update
+ v1.0.2a
+ - Add Inquisitor*
+ - Improve Armored Unit*
+
+ v1.0.1a
  - Reforge Missionary*
 
 
