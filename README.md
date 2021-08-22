@@ -5,7 +5,7 @@ You need enable "show pixels unit" to make it work.
 Update:
  
  v1.0.2a
- - Fix Immortal*
+ - Fix Immortal & Persian Immortal
  - Add Inquisitor*
  - Improve Armored Unit*
 
