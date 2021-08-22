@@ -2148,21 +2148,21 @@ TileSets/FantasyHex/Units/Pathfinder-2
   index: -1
 TileSets/FantasyHex/Units/Persian Immortal
   rotate: false
-  xy: 604, 297
+  xy: 124, 106
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Persian Immortal-1
   rotate: false
-  xy: 644, 333
+  xy: 84, 35
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Persian Immortal-2
   rotate: false
-  xy: 444, 117
+  xy: 124, 70
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
