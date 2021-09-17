@@ -1,16 +1,15 @@
-# Civ-Color-Army-Mod #v1.0.2a
+# Civ-Color-Army-Mod #v1.0.3
 This mod contains exclusive skins where each civ has its own skin color in each troop and unit.
 You need enable "show pixels unit" to make it work.
 
 Update:
  
- v1.0.2a
+ v1.0.3
+ - Revamp Ballista, Trebuchet, Carrier, Siege Tower, and many more.
  - Fix Immortal & Persian Immortal
- - Add Inquisitor*
- - Improve Armored Unit*
-
- v1.0.1a
- - Reforge Missionary*
+ - Add Inquisitor
+ - Improve Armored Unit
+ - Reforge Missionary
 
 
 Next project:
